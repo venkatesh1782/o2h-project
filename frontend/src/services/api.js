@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: '', // Using Vite dev server proxy or relative paths
+  baseURL: 'https://o2h-project-x357.onrender.com',
   headers: {
     'Content-Type': 'application/json',
   },
