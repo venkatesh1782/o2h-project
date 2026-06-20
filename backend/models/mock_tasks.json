@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "1781971527885",
+    "title": "Develop Login Page",
+    "description": "Create a responsive login page with email and password fields, form validation, and JWT authentication. Ensure the page works properly on both desktop and mobile devices.",
+    "status": "Completed",
+    "createdAt": "2026-06-20T16:05:27.885Z",
+    "userId": "1781971258773"
+  },
+  {
+    "_id": "1781971600736",
+    "title": "Build Dashboard UI",
+    "description": "Design a responsive dashboard to display all project tasks with search, filter, pagination, and statistics cards for total, pending, and completed tasks.",
+    "status": "Pending",
+    "createdAt": "2026-06-20T16:06:40.736Z",
+    "userId": "1781971258773"
+  }
+]
